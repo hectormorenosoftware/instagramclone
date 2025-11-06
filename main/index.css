@@ -31,7 +31,7 @@ input:focus {
   border-radius: 20px;
   border: none;
   text-align: center;
-  font-size: 17px;
+  font-size: 15px;
 }
 
 .PasswordInput {
@@ -42,7 +42,7 @@ input:focus {
   margin-top: 10px;
   margin-bottom: 15px;
   text-align: center;
-  font-size: 17px;
+  font-size: 15px;
 }
 
 .SignInButton {
